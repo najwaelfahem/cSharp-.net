@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "4eEZObaFQe9LF7F1oaY9+CnjCwdznDOxbuQV0Z/pdGs=",
+  "Source": "DojoSurvey",
+  "BasePath": "_content/DojoSurvey",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DojoSurvey\\wwwroot",
+      "Source": "DojoSurvey",
+      "ContentRoot": "C:\\Users\\HP-PRO\\Desktop\\cSharp-.net\\week1\\day4\\core\\dojoSurvey\\wwwroot\\",
+      "BasePath": "_content/DojoSurvey",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

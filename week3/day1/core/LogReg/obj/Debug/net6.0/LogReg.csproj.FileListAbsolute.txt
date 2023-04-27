@@ -1,0 +1,8 @@
+C:\Users\HP-PRO\Desktop\cSharp-.net\week3\day1\core\LogReg\obj\Debug\net6.0\LogReg.csproj.AssemblyReference.cache
+C:\Users\HP-PRO\Desktop\cSharp-.net\week3\day1\core\LogReg\obj\Debug\net6.0\LogReg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP-PRO\Desktop\cSharp-.net\week3\day1\core\LogReg\obj\Debug\net6.0\LogReg.AssemblyInfoInputs.cache
+C:\Users\HP-PRO\Desktop\cSharp-.net\week3\day1\core\LogReg\obj\Debug\net6.0\LogReg.AssemblyInfo.cs
+C:\Users\HP-PRO\Desktop\cSharp-.net\week3\day1\core\LogReg\obj\Debug\net6.0\LogReg.csproj.CoreCompileInputs.cache
+C:\Users\HP-PRO\Desktop\cSharp-.net\week3\day1\core\LogReg\obj\Debug\net6.0\LogReg.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP-PRO\Desktop\cSharp-.net\week3\day1\core\LogReg\obj\Debug\net6.0\LogReg.RazorAssemblyInfo.cache
+C:\Users\HP-PRO\Desktop\cSharp-.net\week3\day1\core\LogReg\obj\Debug\net6.0\LogReg.RazorAssemblyInfo.cs
